@@ -1,0 +1,13 @@
+numpy
+pyyaml
+pandas
+scikit-learn
+transformers
+matplotlib
+seaborn
+plotly 
+datasets 
+torch
+langchain
+langchain_community
+langchain_cerebras
